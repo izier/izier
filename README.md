@@ -1,5 +1,5 @@
 # About Me
-I'm an Indonesian college student focusing on mobile app development using Flutter. I'm open to collaborate to any creative and innovative project.
+I'm an Indonesian college student interested in web development, UI/UX design, and multi-platform development using Flutter. I'm open to collaborate to any creative and innovative project.
 
 
 ## Socials
