@@ -1,6 +1,15 @@
 # About Me
 Passionate, hardworking, reliable, problem-solver, introverted yet a social butterfly. Having fundamental knowledges about several must-learned programming languages. Interested in web development, UI/UX design, and multi-platform development using Flutter. Able to work individually or as a team, talk in front of an audience, and adapt quickly to any situation.
 
+## My Projects
+
+- [t_sk](https://github.com/izier/t_sk): Task Manager mobile app built with Flutter.
+- [Gamology_BLoC](https://github.com/izier/Gamology_BLoC): A Flutter app for displaying information about game lists and details, using BLoC as the state management solution.
+- [Gamology_Riverpod](https://github.com/izier/Gamology_Riverpod): A Flutter app for displaying information about game lists and details, using Riverpod as the state management solution.
+- [musiQ](https://github.com/izier/musiQ): A Flutter app with the implementation of Itunes music search API.
+- [ditonton](https://github.com/izier/ditonton): A Dicoding Flutter Developer - Expert class project.
+- [nmixx-app](https://github.com/izier/nmixx-app): A Dicoding Flutter Developer - Beginner class project.
+
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.zier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizirfanudin) 
