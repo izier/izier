@@ -21,3 +21,8 @@ Passionate, hardworking, reliable, problem-solver, introverted yet a social butt
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=izier&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izier&show_icons=true&locale=en&layout=compact" alt="izier" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izier&show_icons=true&locale=en" alt="izier" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izier&" alt="izier" /></p>
