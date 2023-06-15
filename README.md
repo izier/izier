@@ -8,8 +8,8 @@ Passionate, hardworking, reliable, problem-solver, introverted yet a social butt
 - [Gamology_BLoC](https://github.com/izier/Gamology_BLoC): A Flutter app for displaying information about game lists and details, using BLoC as the state management solution.
 - [Gamology_Riverpod](https://github.com/izier/Gamology_Riverpod): A Flutter app for displaying information about game lists and details, using Riverpod as the state management solution.
 - [musiQ](https://github.com/izier/musiQ): A Flutter app with the implementation of Itunes music search API.
-- [ditonton](https://github.com/izier/ditonton): A Dicoding Flutter Developer - Expert class project.
-- [nmixx-app](https://github.com/izier/nmixx-app): A Dicoding Flutter Developer - Beginner class project.
+- [Ditonton](https://github.com/izier/ditonton): A Dicoding Flutter Developer - Expert class project.
+- [NMIXX App](https://github.com/izier/nmixx_app): A Dicoding Flutter Developer - Beginner class project.
 
 
 ## Socials
