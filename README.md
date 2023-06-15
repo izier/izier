@@ -24,4 +24,3 @@ Passionate, hardworking, reliable, problem-solver, introverted yet a social butt
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izier&show_icons=true&locale=en&theme=radical" alt="izier" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izier&theme=radical" alt="izier" /></p>
----
