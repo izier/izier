@@ -3,6 +3,7 @@ Passionate, hardworking, reliable, problem-solver, introverted yet a social butt
 
 ## My Projects
 
+- [News App](https://github.com/izier/news_app): Implementation of NewsAPI.
 - [Posted](https://github.com/izier/posted): Instagram-like app built with Flutter.
 - [t_sk](https://github.com/izier/t_sk): Task Manager mobile app built with Flutter.
 - [Gamology_BLoC](https://github.com/izier/Gamology_BLoC): A Flutter app for displaying information about game lists and details, using BLoC as the state management solution.
