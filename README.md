@@ -3,6 +3,7 @@ Passionate, hardworking, reliable, problem-solver, introverted yet a social butt
 
 ## My Projects
 
+- [Bike Sharing Dataset Analysis](https://github.com/izier/bike_sharing_analysis) Analysis of Bike Sharing Dataset of Washington D.C. in the time period between 2011 and 2012.
 - [News App](https://github.com/izier/news_app) Simple mobile news app built with Flutter.
 - [Posted](https://github.com/izier/posted): Instagram-like app built with Flutter.
 - [t_sk](https://github.com/izier/t_sk): Task Manager mobile app built with Flutter.
